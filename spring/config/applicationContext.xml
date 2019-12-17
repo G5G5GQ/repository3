@@ -5,7 +5,7 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 	<bean id="p1" class="com.atguigu.pojo.Person">
 		<property name="id" value="1" />
-		<property name="name" value="国哥国哥hello3更新"/>
+		<property name="name" value="国哥国哥hello1更新"/>
 		<property name="phone" value="18610541354" />
 		<property name="age" value="11" /> 
 	
